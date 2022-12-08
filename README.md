@@ -2,7 +2,7 @@
 
 **Simple Android app built in Java using Android Studio**
 
-App allows users to create a list of figures - circles, triangles and squares. Each figure is presented with its icon, adequate attribute (diameter, height, diagonal) and area. 
+App allows users to create a list of figures - circles, triangles and squares. Each figure is presented with its icon, adequate attribute (diameter, height, diagonal) and a calculated area. 
 
 The list is generated using parameters given by the user: minimal and maximal dimensions of side/radius of figures and the number of figures to generate. The list can be sorted by figure types, areas or attributes. 
 
