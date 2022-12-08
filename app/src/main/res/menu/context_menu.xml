@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addNewElement"
+        android:title="Add new element" />
+    <item
+        android:id="@+id/duplicateElement"
+        android:title="Duplicate" />
+    <item
+        android:id="@+id/deleteAllAndGenerateNew"
+        android:title="Delete all and generate new" />
+    <item
+        android:id="@+id/deleteElement"
+        android:title="Delete" />
+    <item
+        android:id="@+id/option_5"
+        android:title="Edit element...">
+        <menu>
+            <item android:id="@+id/replaceBySquare"
+                android:title="Change to a Square" />
+            <item android:id="@+id/replaceByCircle"
+                android:title="Change to a Circle" />
+            <item android:id="@+id/replaceByTriangle"
+                android:title="Change to a Triangle" />
+        </menu>
+    </item>
+</menu>
